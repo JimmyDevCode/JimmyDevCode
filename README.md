@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, soy Jimmy Macedo</h1>
-<h3 align="center">Estoy practicando programación de desarrollo backend con Java. Learning Spring Boot and Spring Security</h3>
+<h1 align="center">Hi 👋,I'm Jimmy Macedo</h1>
+<h3 align="center">I am practicing backend development programming with Java. Learning Spring Boot and Spring Security</h3>
 
 
-<h3 align="left">Conecte conmigo:</h3> <p align="left">
+<h3 align="left">Contact me:</h3> <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jimmymacedopizango/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jimmymacedopizango/" height="30" width="40" /></a>
 
 
