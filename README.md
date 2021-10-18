@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Jimmy Macedo</h1>
-<h3 align="center">I am practicing backend development programming with Java. Learning Spring Boot and Spring Security</h3>
+<h3 align="center">I am practicing backend development programming with Java. Learning Spring Boot</h3>
 
 
 <h3 align="left">Contact me:</h3> <p align="left">
