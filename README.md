@@ -1,10 +1,27 @@
-<h1 align="center">Hi 👋,I'm Jimmy Macedo</h1>
-<h3 align="center">I am practicing backend development programming with Java. Learning Spring Boot. I have practical knowledge in the development of microservices (lambda) with Node.js in the Amazon web service cloud</h3>
+# Hi 👋, I'm Jimmy Macedo
 
+## About Me
+I'm a passionate individual in iOS app development using the Swift programming language. Currently, I'm learning and focusing on mobile app development. I enjoy coding with the Pomodoro technique and love listening to hip-hop while programming.
 
-<h3 align="left">Contact me:</h3> <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jimmymacedopizango/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jimmymacedopizango/" height="30" width="40" /></a>
+## Location
+📍 Perú, Lima
 
+## Objectives
+My goal is to travel the world and become a mobile software architect.
 
-</p><h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a></p>
+## Contact
+You can reach out to me via my [LinkedIn](https://www.linkedin.com/in/jimmymacedopizango/) profile.
+
+## iOS Development with Swift
+In my journey of learning and focusing on iOS development, I utilize the following technologies and tools:
+
+- **Programming Language:** Swift
+- **Integrated Development Environment (IDE):** Xcode
+- **Application Architecture:**
+  - VIPER (View, Interactor, Presenter, Entity, Router)  
+  - MVVM (Model-View-ViewModel)  🏛️
+- **User Interface Framework:** UIKit, SwiftUI  📱
+- **Dependency Management:** CocoaPods  📦
+- **Version Control:** Git  🗂️
+- **iOS Device Simulator:** Xcode Simulator  📱
+- **User Interface Design:** Interface Builder  🎨
