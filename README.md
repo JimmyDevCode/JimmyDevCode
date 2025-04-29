@@ -29,7 +29,7 @@ Currently, I'm focused on scaling my expertise towards becoming a Mobile Softwar
 - **Testing:** XCTest, unit testing, code coverage >80%
 - **App Deployment:** Git, App Store Connect
 - **Graphic Frameworks:** Core Animation, Core Graphics, Core Text
-- **Best Practices:** SOLID principles, design patterns (Delegate, Factory, Singleton, Builder)
+- **Best Practices:** SOLID principles, design patterns 
 
 ## Soft Skills
 - 🤝 Teamwork and collaboration with multidisciplinary teams.
