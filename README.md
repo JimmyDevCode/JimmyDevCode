@@ -1,27 +1,39 @@
 # Hi 👋, I'm Jimmy Macedo
 
 ## About Me
-I'm a passionate individual in iOS app development using the Swift programming language. Currently, I'm learning and focusing on mobile app development. I enjoy coding with the Pomodoro technique and love listening to hip-hop while programming.
+I'm an iOS Developer with over 4 years of experience designing and building mobile applications using Swift, SwiftUI, and UIKit. I've contributed to apps in banking, insurance, e-commerce, and digital wallets sectors. I specialize in Clean Architecture, unit testing, performance optimization, and accessibility. I love coding using the Pomodoro technique while listening to hip-hop.
+
+Currently, I'm focused on scaling my expertise towards becoming a Mobile Software Architect and contributing to apps that make a real impact.
 
 ## Location
 📍 Perú, Lima
 
 ## Objectives
-My goal is to travel the world and become a mobile software architect.
+- Scale apps with clean and maintainable code.
+- Build solutions that combine technical excellence and user-centered design.
+- Travel the world and grow into a **mobile software architect**.
 
 ## Contact
-You can reach out to me via my [LinkedIn](https://www.linkedin.com/in/jimmymacedopizango/) profile.
+- 📩 **Email:** jimmymacedopizango@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/jimmymacedopizango/](https://www.linkedin.com/in/jimmymacedopizango/)
 
 ## iOS Development with Swift
-In my journey of learning and focusing on iOS development, I utilize the following technologies and tools:
+- **Programming Languages:** Swift
+- **Frameworks:** SwiftUI, UIKit
+- **Architectures:** Clean Architecture, VIPER, MVVM, MVC
+- **Networking:** REST, GraphQL, URLSession, Alamofire
+- **Asynchronous Programming:** GCD, Async/Await, Combine
+- **Persistence:** Core Data, Realm, SQLite, UserDefaults, Keychain, DynamoDB
+- **Dependency Management:** CocoaPods, Swift Package Manager (SPM)
+- **CI/CD Automation:** Fastlane, Xcode Cloud
+- **Testing:** XCTest, unit testing, code coverage >80%
+- **App Deployment:** Git, App Store Connect
+- **Graphic Frameworks:** Core Animation, Core Graphics, Core Text
+- **Best Practices:** SOLID principles, design patterns (Delegate, Factory, Singleton, Builder)
 
-- **Programming Language:** Swift
-- **Integrated Development Environment (IDE):** Xcode
-- **Application Architecture:**
-  - VIPER (View, Interactor, Presenter, Entity, Router)  
-  - MVVM (Model-View-ViewModel)  🏛️
-- **User Interface Framework:** UIKit, SwiftUI  📱
-- **Dependency Management:** CocoaPods  📦
-- **Version Control:** Git  🗂️
-- **iOS Device Simulator:** Xcode Simulator  📱
-- **User Interface Design:** Interface Builder  🎨
+## Soft Skills
+- 🤝 Teamwork and collaboration with multidisciplinary teams.
+- 🗣️ Clear and assertive communication of technical ideas.
+- 🔄 Adaptability to evolving project needs and technologies.
+- 🛠️ Proactive problem-solving mindset.
+- 🧠 Critical thinking for technical decision-making.
